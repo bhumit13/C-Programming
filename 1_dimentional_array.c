@@ -12,8 +12,6 @@ int main() {
         printf("Array element is %d\n", a[i]);
     }
     
-    
-
     return 0;
     
 }
